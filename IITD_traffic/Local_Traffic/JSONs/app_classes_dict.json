@@ -1,0 +1,43 @@
+{
+  "ChatGPT": [
+    "ab.chatgpt.com"
+  ],
+  "YouTube": [
+    "accounts.youtube.com",
+    "i.ytimg.com",
+    "www.youtube.com",
+    "youtube.com",
+    "yt3.ggpht.com"
+  ],
+  "Microsoft-Teams": [
+    "api.flightproxy.teams.microsoft.com",
+    "apps.powerapps.com",
+    "browser.events.data.microsoft.com",
+    "in-prod.asyncgw.teams.microsoft.com",
+    "presence.teams.microsoft.com",
+    "statics.teams.cdn.office.net",
+    "teams.events.data.microsoft.com",
+    "teams.microsoft.com"
+  ],
+  "Google": [
+    "beacons.gcp.gvt2.com",
+    "clients4.google.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "google.com",
+    "googleads.g.doubleclick.net",
+    "jnn-pa.googleapis.com",
+    "lh3.googleusercontent.com",
+    "lh4.googleusercontent.com",
+    "optimizationguide-pa.googleapis.com",
+    "play.google.com",
+    "tpc.googlesyndication.com",
+    "www.google.co.in",
+    "www.google.com",
+    "www.gstatic.com"
+  ],
+  "WhatsApp": [
+    "e15.whatsapp.net",
+    "pps.whatsapp.net"
+  ]
+}
