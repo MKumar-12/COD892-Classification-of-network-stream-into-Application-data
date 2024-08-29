@@ -2,3 +2,5 @@
 *.npcap
 
 notes.txt
+
+!Local_Traffic/extracted_classes/**/*.pcap
