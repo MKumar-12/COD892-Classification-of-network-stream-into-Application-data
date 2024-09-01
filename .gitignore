@@ -1,5 +1,6 @@
 *.pcap
 *.npcap
+*.log
 
 notes.txt
 
