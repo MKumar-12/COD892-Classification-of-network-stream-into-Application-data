@@ -3,5 +3,6 @@
 *.log
 
 notes.txt
+/Extraneous/*
 
 !Local_Traffic/extracted_classes/**/*.pcap

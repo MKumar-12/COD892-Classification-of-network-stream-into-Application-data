@@ -2,3 +2,6 @@ tqdm
 scapy
 jq
 bc
+tshark
+parallel
+pyshark
