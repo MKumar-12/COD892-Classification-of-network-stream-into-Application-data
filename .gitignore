@@ -1,8 +1,11 @@
+# ignore nw_trace & log files
 *.pcap
 *.npcap
 *.log
 
+# ignore self documentations
 notes.txt
 /Extraneous/*
 
+# include application classes of Local traffic
 !Local_Traffic/extracted_classes/**/*.pcap
