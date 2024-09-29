@@ -1,0 +1,326 @@
+[
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "clientservices.googleapis.com",
+    "dns_answer": "142.250.207.195"
+  },
+  {
+    "dns_query": "www.googleapis.com",
+    "dns_answer": "142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.106,142.250.206.138,142.250.206.170,142.250.207.202,142.250.207.234,172.217.166.10,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42"
+  },
+  {
+    "dns_query": "accounts.google.com",
+    "dns_answer": "142.251.10.84"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "memex-pa.googleapis.com",
+    "dns_answer": "142.250.193.234,142.250.206.106,172.217.166.10,172.217.167.202,216.58.196.106,216.58.200.170,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.78"
+  },
+  {
+    "dns_query": "e12.whatsapp.net",
+    "dns_answer": "15.197.206.217"
+  },
+  {
+    "dns_query": "ogads-pa.clients6.google.com",
+    "dns_answer": "142.250.194.10"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.183.35"
+  },
+  {
+    "dns_query": "settings-win.data.microsoft.com",
+    "dns_answer": "13.71.55.58"
+  },
+  {
+    "dns_query": "moodle.iitd.ac.in",
+    "dns_answer": "10.10.17.1"
+  },
+  {
+    "dns_query": "settings-win.data.microsoft.com",
+    "dns_answer": "20.44.239.154"
+  },
+  {
+    "dns_query": "prod.client.wosc.services.microsoft.com",
+    "dns_answer": "13.107.246.68"
+  },
+  {
+    "dns_query": "prod.client.wosc.services.microsoft.com",
+    "dns_answer": "13.107.246.48"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "mtalk.google.com",
+    "dns_answer": "64.233.170.188"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "clients2.google.com",
+    "dns_answer": "142.250.193.78"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "www.overleaf.com",
+    "dns_answer": "34.120.52.64"
+  },
+  {
+    "dns_query": "chat.openai.com",
+    "dns_answer": "104.18.37.228,172.64.150.28"
+  },
+  {
+    "dns_query": "ogs.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "encrypted-tbn0.gstatic.com",
+    "dns_answer": "142.250.193.206"
+  },
+  {
+    "dns_query": "cloudsearch.googleapis.com",
+    "dns_answer": "142.250.206.106,142.250.206.138,142.250.206.170,142.250.207.202,142.250.207.234,172.217.167.202,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42,142.250.206.106,142.250.206.138,142.250.206.170,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170"
+  },
+  {
+    "dns_query": "www.googleadservices.com",
+    "dns_answer": "142.250.193.194"
+  },
+  {
+    "dns_query": "id.google.com",
+    "dns_answer": "142.250.206.163"
+  },
+  {
+    "dns_query": "tunnel.googlezip.net",
+    "dns_answer": "216.239.34.157"
+  },
+  {
+    "dns_query": "ogads-pa.clients6.google.com",
+    "dns_answer": "142.250.194.170"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.193.3"
+  },
+  {
+    "dns_query": "i.ytimg.com",
+    "dns_answer": "142.250.206.150,142.250.206.182,142.250.182.182,142.250.192.182,142.250.192.214,142.250.192.246,142.250.193.22,142.250.193.54,142.250.193.86,142.250.193.214,142.250.193.246,142.250.194.22,142.250.194.54,142.250.194.86,142.250.194.118,142.250.206.118"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "dns-tunnel-check.googlezip.net",
+    "dns_answer": "216.239.34.159"
+  },
+  {
+    "dns_query": "content-autofill.googleapis.com",
+    "dns_answer": "142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.106,142.250.206.138,142.250.206.170,142.250.207.202,142.250.207.234,142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10"
+  },
+  {
+    "dns_query": "encrypted-tbn0.gstatic.com",
+    "dns_answer": "142.250.193.206"
+  },
+  {
+    "dns_query": "www.youtube.com",
+    "dns_answer": "142.250.193.46,142.250.193.78,142.250.193.206,142.250.193.238,142.250.206.110,142.250.206.142,142.250.206.174,172.217.167.238,216.58.200.174,142.250.77.206,142.250.77.238,142.250.182.174,142.250.192.174,142.250.192.206,142.250.192.238,142.250.193.14"
+  },
+  {
+    "dns_query": "www.youtube.com",
+    "dns_answer": "142.250.193.78,142.250.193.206,142.250.193.238,142.250.206.110,142.250.206.142,142.250.206.174,172.217.167.238,216.58.200.174,142.250.77.206,142.250.77.238,142.250.182.174,142.250.192.174,142.250.192.206,142.250.192.238,142.250.193.14,142.250.193.46"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "i.ytimg.com",
+    "dns_answer": "142.250.193.246,142.250.194.22,142.250.194.54,142.250.194.86,142.250.194.118,142.250.206.118,142.250.206.150,142.250.206.182,142.250.182.182,142.250.192.182,142.250.192.214,142.250.192.246,142.250.193.22,142.250.193.54,142.250.193.86,142.250.193.214"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.193.3"
+  },
+  {
+    "dns_query": "jnn-pa.googleapis.com",
+    "dns_answer": "216.58.200.202,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.206.106,142.250.206.138,216.58.196.106,216.58.200.170"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "lh3.googleusercontent.com",
+    "dns_answer": "142.250.194.1"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "tunnel.googlezip.net",
+    "dns_answer": "216.239.34.157"
+  },
+  {
+    "dns_query": "ogs.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "csp.withgoogle.com",
+    "dns_answer": "142.250.195.17"
+  },
+  {
+    "dns_query": "www.merriam-webster.com",
+    "dns_answer": "108.159.61.16,108.159.61.30,108.159.61.2,108.159.61.5"
+  },
+  {
+    "dns_query": "www.google-analytics.com",
+    "dns_answer": "216.239.38.178,216.239.32.178,216.239.34.178,216.239.36.178"
+  },
+  {
+    "dns_query": "ajax.googleapis.com",
+    "dns_answer": "142.250.194.10"
+  },
+  {
+    "dns_query": "www.googletagmanager.com",
+    "dns_answer": "142.250.206.136"
+  },
+  {
+    "dns_query": "telemetry.art19.com",
+    "dns_answer": "199.232.210.137,199.232.214.137"
+  },
+  {
+    "dns_query": "merriam-webster.com",
+    "dns_answer": "108.159.61.5,108.159.61.16,108.159.61.30,108.159.61.2"
+  },
+  {
+    "dns_query": "analyze-82dfgsi2.m-w.com",
+    "dns_answer": "34.205.59.207,34.196.151.101"
+  },
+  {
+    "dns_query": "ads.adthrive.com",
+    "dns_answer": "18.66.41.112,18.66.41.117,18.66.41.119,18.66.41.24"
+  },
+  {
+    "dns_query": "entitlements.jwplayer.com",
+    "dns_answer": "18.172.64.100,18.172.64.66,18.172.64.72,18.172.64.98"
+  },
+  {
+    "dns_query": "match.adsrvr.org",
+    "dns_answer": "52.223.40.198,3.33.220.150,15.197.193.217,35.71.131.137"
+  },
+  {
+    "dns_query": "securepubads.g.doubleclick.net",
+    "dns_answer": "142.250.193.226"
+  },
+  {
+    "dns_query": "raptive.solutions.cdn.optable.co",
+    "dns_answer": "34.117.62.22"
+  },
+  {
+    "dns_query": "raptive-auth.cloud.optable.co",
+    "dns_answer": "34.149.155.241"
+  },
+  {
+    "dns_query": "raptive-tests.cloud.optable.co",
+    "dns_answer": "34.149.155.241"
+  },
+  {
+    "dns_query": "browser.sentry-cdn.com",
+    "dns_answer": "151.101.66.217,151.101.130.217,151.101.194.217,151.101.2.217"
+  },
+  {
+    "dns_query": "www.clarity.ms",
+    "dns_answer": "13.107.246.48"
+  },
+  {
+    "dns_query": "ads.adthrive.com",
+    "dns_answer": "18.66.41.119,18.66.41.24,18.66.41.112,18.66.41.117"
+  },
+  {
+    "dns_query": "encyclopaediabritann.tt.omtrdc.net",
+    "dns_answer": "66.235.152.221,66.235.152.225,66.235.152.156"
+  },
+  {
+    "dns_query": "fundingchoicesmessages.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "pixel.rubiconproject.com",
+    "dns_answer": "69.173.158.64"
+  },
+  {
+    "dns_query": "cdn.confiant-integrations.net",
+    "dns_answer": "172.64.144.166,104.18.43.90"
+  },
+  {
+    "dns_query": "sb.scorecardresearch.com",
+    "dns_answer": "18.66.41.118,18.66.41.15,18.66.41.24,18.66.41.58"
+  },
+  {
+    "dns_query": "gum.criteo.com",
+    "dns_answer": "182.161.73.136"
+  },
+  {
+    "dns_query": "fid.agkn.com",
+    "dns_answer": "3.226.229.76,3.231.92.129,44.219.153.62,54.198.126.40"
+  },
+  {
+    "dns_query": "ups.analytics.yahoo.com",
+    "dns_answer": "13.228.126.19,18.143.106.89"
+  },
+  {
+    "dns_query": "launchpad-wrapper.privacymanager.io",
+    "dns_answer": "108.158.61.35,108.158.61.64,108.158.61.76,108.158.61.77"
+  }
+]

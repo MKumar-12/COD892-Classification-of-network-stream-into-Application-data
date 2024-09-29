@@ -1,0 +1,51 @@
+Major Classes for SNIs division:
+
+Streaming:
+    youtube             D
+    hotstar             D
+    amazon prime        D
+    netflix             D
+    spotify             D
+
+
+Teams 
+    Chat                D
+    Call                D
+
+
+Google
+    Mail                D
+    Web browse          D
+    Drive - Downloads/browsing      D
+
+
+Onedrive
+    Downloads/browsing
+
+
+Facebook
+    messaging
+    video
+    surfing
+
+
+Instagram
+    messaging
+    video
+    surfing
+
+
+Whatsapp
+    Chat
+    Call
+    messaging
+
+
+Github
+
+
+AI-apps 
+    ChatGPT
+
+
+Others

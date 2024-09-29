@@ -17,25 +17,23 @@ def split_pcap(input_file, output_dir, max_packets=1000000):
     
     output_file = os.path.join(output_dir, f"split_{file_count}.pcap")
     pcap_writer = PcapWriter(output_file, append=True, sync=True)
-    tqdm.write(f"Currently saving to {output_file}")
+    print(f"[INFO] Currently saving to {output_file}")
 
-    pbar = tqdm(desc="Processing packets", unit="pkt", leave=False)
     for packet in pcap_reader:
         if packet_count >= max_packets:
             pcap_writer.close()
             file_count += 1
             output_file = os.path.join(output_dir, f"split_{file_count}.pcap")
             pcap_writer = PcapWriter(output_file, append=True, sync=True)
-            tqdm.write(f"Currently saving to {output_file}")
+            print(f"[INFO] Currently saving to {output_file}")
             packet_count = 0
 
         pcap_writer.write(packet)
         packet_count += 1
-        pbar.update(1)
 
     pcap_writer.close()
     pcap_reader.close()
-    pbar.close()
+    
     print("[INFO] Completed splitting the pcap file.")
     print()
 

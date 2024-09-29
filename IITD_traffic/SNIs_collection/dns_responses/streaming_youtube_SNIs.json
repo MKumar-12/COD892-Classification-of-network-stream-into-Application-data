@@ -1,0 +1,310 @@
+[
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "clientservices.googleapis.com",
+    "dns_answer": "142.250.195.3"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "www.googleapis.com",
+    "dns_answer": "142.250.194.170,142.250.194.234,142.250.195.10,142.250.207.202,142.250.207.234,172.217.166.10,216.58.196.106,216.58.200.170,216.58.200.202,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10"
+  },
+  {
+    "dns_query": "accounts.google.com",
+    "dns_answer": "142.251.10.84"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "memex-pa.googleapis.com",
+    "dns_answer": "142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42,142.250.194.74,142.250.206.106,142.250.206.138,142.250.206.170,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42"
+  },
+  {
+    "dns_query": "ogads-pa.clients6.google.com",
+    "dns_answer": "142.250.192.234"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "www.youtube.com",
+    "dns_answer": "142.250.193.206,142.250.193.238,142.250.194.14,142.250.194.46,142.250.206.110,142.250.206.142,142.250.206.174,142.250.77.206,142.250.77.238,142.250.182.174,142.250.192.174,142.250.192.206,142.250.192.238,142.250.193.14,142.250.193.46,142.250.193.78"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.206.106,142.250.206.138,142.250.206.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "youtube.com",
+    "dns_answer": "216.58.203.14"
+  },
+  {
+    "dns_query": "i.ytimg.com",
+    "dns_answer": "142.250.182.182,142.250.192.182,142.250.192.214,142.250.192.246,142.250.193.22,142.250.193.54,142.250.193.86,142.250.193.214,142.250.193.246,142.250.194.22,142.250.194.54,142.250.194.86,142.250.194.118,142.250.206.118,142.250.206.150,142.250.206.182"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.193.3"
+  },
+  {
+    "dns_query": "clients2.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "mtalk.google.com",
+    "dns_answer": "142.251.12.188"
+  },
+  {
+    "dns_query": "rr3---sn-q4flrnsl.googlevideo.com",
+    "dns_answer": "173.194.57.72"
+  },
+  {
+    "dns_query": "yt3.ggpht.com",
+    "dns_answer": "142.250.194.161"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "jnn-pa.googleapis.com",
+    "dns_answer": "142.250.207.234,172.217.27.170,172.217.167.202,172.217.167.234,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.207.202"
+  },
+  {
+    "dns_query": "accounts.youtube.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "rr2---sn-o3o-qxa6.googlevideo.com",
+    "dns_answer": "180.149.59.41"
+  },
+  {
+    "dns_query": "ogs.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "log.getadblock.com",
+    "dns_answer": "138.197.240.19"
+  },
+  {
+    "dns_query": "crt.sectigo.com",
+    "dns_answer": "172.64.149.23,104.18.38.233"
+  },
+  {
+    "dns_query": "www.googleadservices.com",
+    "dns_answer": "142.250.193.194"
+  },
+  {
+    "dns_query": "www.googleadservices.com",
+    "dns_answer": "142.250.193.34"
+  },
+  {
+    "dns_query": "www.google-analytics.com",
+    "dns_answer": "216.239.32.178,216.239.34.178,216.239.36.178,216.239.38.178"
+  },
+  {
+    "dns_query": "www.google-analytics.com",
+    "dns_answer": "216.239.36.178,216.239.38.178,216.239.32.178,216.239.34.178"
+  },
+  {
+    "dns_query": "ctldl.windowsupdate.com",
+    "dns_answer": "199.232.210.172,199.232.214.172"
+  },
+  {
+    "dns_query": "ctldl.windowsupdate.com",
+    "dns_answer": "45.113.119.0"
+  },
+  {
+    "dns_query": "www.google.co.in",
+    "dns_answer": "142.250.206.163"
+  },
+  {
+    "dns_query": "www.google-analytics.com",
+    "dns_answer": "216.239.34.178,216.239.36.178,216.239.38.178,216.239.32.178"
+  },
+  {
+    "dns_query": "mobile.events.data.microsoft.com",
+    "dns_answer": "20.50.73.9"
+  },
+  {
+    "dns_query": "mobile.events.data.microsoft.com",
+    "dns_answer": "13.89.178.27"
+  },
+  {
+    "dns_query": "substrate.office.com",
+    "dns_answer": "52.97.92.130,52.98.63.18,52.98.63.50,40.100.72.64"
+  },
+  {
+    "dns_query": "server.events.data.microsoft.com",
+    "dns_answer": "20.189.173.25"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "beacons.gcp.gvt2.com",
+    "dns_answer": "172.253.124.94"
+  },
+  {
+    "dns_query": "beacons.gcp.gvt2.com",
+    "dns_answer": "172.253.124.94"
+  },
+  {
+    "dns_query": "suggestqueries-clients6.youtube.com",
+    "dns_answer": "142.250.192.206"
+  },
+  {
+    "dns_query": "google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "safebrowsing.googleapis.com",
+    "dns_answer": "142.250.194.10"
+  },
+  {
+    "dns_query": "content-autofill.googleapis.com",
+    "dns_answer": "142.250.194.10,142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.138,142.250.206.170,142.250.207.202,142.250.207.234,172.217.27.170,172.217.166.10,172.217.167.202,216.58.196.106"
+  },
+  {
+    "dns_query": "client.wns.windows.com",
+    "dns_answer": "20.198.118.190"
+  },
+  {
+    "dns_query": "config.teams.microsoft.com",
+    "dns_answer": "52.113.194.132"
+  },
+  {
+    "dns_query": "config.teams.microsoft.com",
+    "dns_answer": "52.113.194.132"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "142.250.207.234,172.217.167.202,216.58.196.106,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.194.234,142.250.195.10,142.250.207.202"
+  },
+  {
+    "dns_query": "lh6.googleusercontent.com",
+    "dns_answer": "142.250.194.1"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "lh5.googleusercontent.com",
+    "dns_answer": "142.250.194.1"
+  },
+  {
+    "dns_query": "rr2---sn-o3o-qxaz.googlevideo.com",
+    "dns_answer": "180.149.59.13"
+  },
+  {
+    "dns_query": "beacons3.gvt2.com",
+    "dns_answer": "216.58.200.195"
+  },
+  {
+    "dns_query": "i9.ytimg.com",
+    "dns_answer": "142.250.206.142"
+  },
+  {
+    "dns_query": "rr3---sn-o3o-qxa6.googlevideo.com",
+    "dns_answer": "180.149.59.42"
+  },
+  {
+    "dns_query": "rr1---sn-o3o-qxa6.googlevideo.com",
+    "dns_answer": "180.149.59.40"
+  },
+  {
+    "dns_query": "default.exp-tas.com",
+    "dns_answer": "13.107.5.93"
+  },
+  {
+    "dns_query": "default.exp-tas.com",
+    "dns_answer": "13.107.5.93"
+  },
+  {
+    "dns_query": "www.googleadservices.com",
+    "dns_answer": "142.250.77.194"
+  },
+  {
+    "dns_query": "www.google-analytics.com",
+    "dns_answer": "142.250.194.14"
+  },
+  {
+    "dns_query": "www.googleadservices.com",
+    "dns_answer": "142.250.207.194"
+  },
+  {
+    "dns_query": "www.google-analytics.com",
+    "dns_answer": "216.239.32.178,216.239.34.178,216.239.36.178,216.239.38.178"
+  },
+  {
+    "dns_query": "v10.events.data.microsoft.com",
+    "dns_answer": "104.208.16.95"
+  },
+  {
+    "dns_query": "v10.events.data.microsoft.com",
+    "dns_answer": "13.89.179.13"
+  },
+  {
+    "dns_query": "mobile.events.data.microsoft.com",
+    "dns_answer": "13.78.111.198"
+  },
+  {
+    "dns_query": "mobile.events.data.microsoft.com",
+    "dns_answer": "20.50.73.11"
+  },
+  {
+    "dns_query": "jnn-pa.googleapis.com",
+    "dns_answer": "142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.206.106,172.217.167.202,172.217.167.234,216.58.196.106,216.58.200.202,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202"
+  },
+  {
+    "dns_query": "rr3---sn-qxaelner.googlevideo.com",
+    "dns_answer": "172.217.140.200"
+  }
+]

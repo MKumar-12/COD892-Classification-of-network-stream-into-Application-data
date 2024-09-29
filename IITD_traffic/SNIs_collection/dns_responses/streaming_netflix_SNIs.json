@@ -1,0 +1,302 @@
+[
+  {
+    "dns_query": "accounts.google.com",
+    "dns_answer": "142.251.10.84"
+  },
+  {
+    "dns_query": "www.googleapis.com",
+    "dns_answer": "142.250.194.170,142.250.206.106,142.250.206.138,142.250.206.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138"
+  },
+  {
+    "dns_query": "clientservices.googleapis.com",
+    "dns_answer": "142.250.195.3"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "memex-pa.googleapis.com",
+    "dns_answer": "142.250.194.234,142.250.195.10,142.250.207.202,142.250.207.234,172.217.27.170,172.217.166.10,172.217.167.234,216.58.196.106,216.58.200.202,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.194.170"
+  },
+  {
+    "dns_query": "ogads-pa.clients6.google.com",
+    "dns_answer": "142.250.193.42"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.193.3"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "clients2.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "mtalk.google.com",
+    "dns_answer": "64.233.170.188"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "www.netflix.com",
+    "dns_answer": "52.214.181.141,54.170.196.176,54.246.79.9"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.206.106,142.250.206.138,142.250.206.170,142.250.192.234,142.250.193.10"
+  },
+  {
+    "dns_query": "assets.nflxext.com",
+    "dns_answer": "45.57.90.1,45.57.91.1"
+  },
+  {
+    "dns_query": "cdn.cookielaw.org",
+    "dns_answer": "104.18.86.42,104.18.87.42"
+  },
+  {
+    "dns_query": "safebrowsing.googleapis.com",
+    "dns_answer": "142.250.183.170"
+  },
+  {
+    "dns_query": "geolocation.onetrust.com",
+    "dns_answer": "172.64.155.119,104.18.32.137"
+  },
+  {
+    "dns_query": "occ-0-2590-2186.1.nflxso.net",
+    "dns_answer": "49.44.220.78,49.44.142.186"
+  },
+  {
+    "dns_query": "push.prod.netflix.com",
+    "dns_answer": "54.171.156.218,63.33.228.172,52.51.253.173"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "assets.netflix.com",
+    "dns_answer": "3.137.95.47,3.211.157.115,44.240.158.19,54.170.196.176"
+  },
+  {
+    "dns_query": "web.prod.cloud.netflix.com",
+    "dns_answer": "54.217.35.13,99.81.251.69,54.195.169.127"
+  },
+  {
+    "dns_query": "content-autofill.googleapis.com",
+    "dns_answer": "142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42,142.250.206.106,142.250.206.138,142.250.206.170,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74"
+  },
+  {
+    "dns_query": "ae.nflximg.net",
+    "dns_answer": "104.71.111.97"
+  },
+  {
+    "dns_query": "v10.events.data.microsoft.com",
+    "dns_answer": "20.44.10.122"
+  },
+  {
+    "dns_query": "www.netflix.com",
+    "dns_answer": "54.155.178.5,3.251.50.149,54.74.73.31"
+  },
+  {
+    "dns_query": "ichnaea-web.netflix.com",
+    "dns_answer": "34.253.80.67,46.137.33.115,54.76.225.15,54.194.235.68,79.125.115.158,34.241.166.200,34.242.157.156,34.246.130.175"
+  },
+  {
+    "dns_query": "logs.netflix.com",
+    "dns_answer": "54.246.58.140,34.242.48.77,54.72.107.8"
+  },
+  {
+    "dns_query": "ipv6-c005-del001-jio-isp.1.oca.nflxvideo.net",
+    "dns_answer": "49.44.61.162"
+  },
+  {
+    "dns_query": "ipv6-c008-del001-jio-isp.1.oca.nflxvideo.net",
+    "dns_answer": "49.44.220.74"
+  },
+  {
+    "dns_query": "ipv6-c010-del001-jio-isp.1.oca.nflxvideo.net",
+    "dns_answer": "49.44.142.186"
+  },
+  {
+    "dns_query": "ogs.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.199.131"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "ipv6-c011-del001-jio-isp.1.oca.nflxvideo.net",
+    "dns_answer": "49.44.142.190"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "assets.msn.com",
+    "dns_answer": "180.149.52.210,180.149.52.217"
+  },
+  {
+    "dns_query": "assets.msn.com",
+    "dns_answer": "180.149.52.217,180.149.52.210"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "www.netflix.com",
+    "dns_answer": "54.170.196.176,54.246.79.9,52.214.181.141"
+  },
+  {
+    "dns_query": "beacons.gcp.gvt2.com",
+    "dns_answer": "172.253.124.94"
+  },
+  {
+    "dns_query": "beacons.gcp.gvt2.com",
+    "dns_answer": "142.250.207.195"
+  },
+  {
+    "dns_query": "ipv6-c004-del001-jio-isp.1.oca.nflxvideo.net",
+    "dns_answer": "49.44.61.166"
+  },
+  {
+    "dns_query": "logs.netflix.com",
+    "dns_answer": "54.72.107.8,54.246.58.140,34.242.48.77"
+  },
+  {
+    "dns_query": "occ-0-2590-2186.1.nflxso.net",
+    "dns_answer": "49.44.142.190,49.44.142.186"
+  },
+  {
+    "dns_query": "web.prod.cloud.netflix.com",
+    "dns_answer": "54.246.59.141,34.252.42.104,46.137.170.241"
+  },
+  {
+    "dns_query": "ipv6-c009-del001-jio-isp.1.oca.nflxvideo.net",
+    "dns_answer": "49.44.220.78"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "safebrowsing.googleapis.com",
+    "dns_answer": "142.250.194.10"
+  },
+  {
+    "dns_query": "beacons2.gvt2.com",
+    "dns_answer": "172.217.169.3"
+  },
+  {
+    "dns_query": "www.netflix.com",
+    "dns_answer": "54.73.148.110,54.155.246.232,18.200.8.190"
+  },
+  {
+    "dns_query": "logs.netflix.com",
+    "dns_answer": "52.212.50.192,52.213.117.187,52.18.200.194"
+  },
+  {
+    "dns_query": "default.exp-tas.com",
+    "dns_answer": "13.107.5.93"
+  },
+  {
+    "dns_query": "default.exp-tas.com",
+    "dns_answer": "13.107.5.93"
+  },
+  {
+    "dns_query": "www.msftconnecttest.com",
+    "dns_answer": "180.149.59.200,180.149.59.211"
+  },
+  {
+    "dns_query": "www.msftconnecttest.com",
+    "dns_answer": "180.149.59.200,180.149.59.211"
+  },
+  {
+    "dns_query": "www.msftconnecttest.com",
+    "dns_answer": "180.149.59.211,180.149.59.200"
+  },
+  {
+    "dns_query": "www.msftconnecttest.com",
+    "dns_answer": "180.149.59.211,180.149.59.200"
+  },
+  {
+    "dns_query": "assets.netflix.com",
+    "dns_answer": "54.170.196.176,3.137.95.47,3.211.157.115,44.240.158.19"
+  },
+  {
+    "dns_query": "web.prod.cloud.netflix.com",
+    "dns_answer": "46.137.170.241,54.246.59.141,34.252.42.104"
+  },
+  {
+    "dns_query": "www.netflix.com",
+    "dns_answer": "54.246.79.9,52.214.181.141,54.170.196.176"
+  },
+  {
+    "dns_query": "ichnaea-web.netflix.com",
+    "dns_answer": "63.34.205.22,18.200.71.207,34.246.52.177,52.50.161.78,54.78.193.176,54.154.108.193,54.194.235.68,54.216.54.189"
+  },
+  {
+    "dns_query": "occ-0-2590-2186.1.nflxso.net",
+    "dns_answer": "49.44.61.162,49.44.142.186"
+  },
+  {
+    "dns_query": "mobile.events.data.microsoft.com",
+    "dns_answer": "20.189.173.17"
+  },
+  {
+    "dns_query": "mobile.events.data.microsoft.com",
+    "dns_answer": "20.189.173.17"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.206.106,172.217.27.170,172.217.166.10,216.58.196.106,216.58.200.202,142.250.77.202,142.250.77.234"
+  },
+  {
+    "dns_query": "assets.nflxext.com",
+    "dns_answer": "45.57.91.1,45.57.90.1"
+  },
+  {
+    "dns_query": "geolocation.onetrust.com",
+    "dns_answer": "172.64.155.119,104.18.32.137"
+  },
+  {
+    "dns_query": "push.prod.netflix.com",
+    "dns_answer": "63.33.228.172,52.51.253.173,54.171.156.218"
+  },
+  {
+    "dns_query": "substrate.office.com",
+    "dns_answer": "40.99.9.50,40.99.9.162,40.99.33.242,40.99.111.18"
+  },
+  {
+    "dns_query": "server.events.data.microsoft.com",
+    "dns_answer": "20.189.173.11"
+  },
+  {
+    "dns_query": "beacons4.gvt2.com",
+    "dns_answer": "216.239.32.116"
+  },
+  {
+    "dns_query": "www.netflix.com",
+    "dns_answer": "54.246.79.9,52.214.181.141,54.170.196.176"
+  }
+]

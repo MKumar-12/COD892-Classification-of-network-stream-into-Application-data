@@ -1,0 +1,250 @@
+[
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "accounts.google.com",
+    "dns_answer": "142.251.10.84"
+  },
+  {
+    "dns_query": "apresolve.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "spclient.wg.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "api-partner.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "api.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "apresolve.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "spclient.wg.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "pl.scdn.co",
+    "dns_answer": "199.232.214.248,199.232.210.248"
+  },
+  {
+    "dns_query": "pixel.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "pixel-static.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "open.spotifycdn.com",
+    "dns_answer": "199.232.214.251,199.232.210.251"
+  },
+  {
+    "dns_query": "login5.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "lineup-images.scdn.co",
+    "dns_answer": "199.232.214.248,199.232.210.248"
+  },
+  {
+    "dns_query": "ap-gae2.spotify.com",
+    "dns_answer": "104.199.241.202"
+  },
+  {
+    "dns_query": "mosaic.scdn.co",
+    "dns_answer": "199.232.214.248,199.232.210.248"
+  },
+  {
+    "dns_query": "i.scdn.co",
+    "dns_answer": "49.44.117.130,49.44.117.131,49.44.117.136,49.44.95.143,49.44.95.145,49.44.117.98,49.44.117.107,49.44.117.114,49.44.117.129"
+  },
+  {
+    "dns_query": "exp.wg.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "daily-mix.scdn.co",
+    "dns_answer": "199.232.214.248,199.232.210.248"
+  },
+  {
+    "dns_query": "gae2-dealer.spotify.com",
+    "dns_answer": "35.186.224.40"
+  },
+  {
+    "dns_query": "spclient.wg.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "gae2-spclient.spotify.com",
+    "dns_answer": "35.186.224.22"
+  },
+  {
+    "dns_query": "o22381.ingest.sentry.io",
+    "dns_answer": "34.120.195.249"
+  },
+  {
+    "dns_query": "content-autofill.googleapis.com",
+    "dns_answer": "142.250.207.234,216.58.200.170,142.250.77.202,142.250.77.234,142.250.182.170,142.250.194.10,142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.138,142.250.206.170,142.250.207.202"
+  },
+  {
+    "dns_query": "gae2-dealer.spotify.com",
+    "dns_answer": "35.186.224.40"
+  },
+  {
+    "dns_query": "web-sdk-assets.spotifycdn.com",
+    "dns_answer": "199.232.210.250,199.232.214.250"
+  },
+  {
+    "dns_query": "watson.events.data.microsoft.com",
+    "dns_answer": "20.42.73.29"
+  },
+  {
+    "dns_query": "gae2-spclient.spotify.com",
+    "dns_answer": "35.186.224.22"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "securepubads.g.doubleclick.net",
+    "dns_answer": "142.250.193.226"
+  },
+  {
+    "dns_query": "securepubads.g.doubleclick.net",
+    "dns_answer": "142.250.192.130"
+  },
+  {
+    "dns_query": "6832a4a4065a5c7bcefa779489edf030.safeframe.googlesyndication.com",
+    "dns_answer": "142.250.207.193"
+  },
+  {
+    "dns_query": "pagead2.googlesyndication.com",
+    "dns_answer": "142.250.207.194"
+  },
+  {
+    "dns_query": "tpc.googlesyndication.com",
+    "dns_answer": "142.250.194.161"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "pagead2.googlesyndication.com",
+    "dns_answer": "142.250.194.34"
+  },
+  {
+    "dns_query": "seed-mix-image.spotifycdn.com",
+    "dns_answer": "199.232.214.250,199.232.210.250"
+  },
+  {
+    "dns_query": "dailymix-images.scdn.co",
+    "dns_answer": "199.232.210.248,199.232.214.248"
+  },
+  {
+    "dns_query": "aet.spotify.com",
+    "dns_answer": "35.186.224.24"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.106,142.250.206.138,142.250.206.170,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42"
+  },
+  {
+    "dns_query": "i.scdn.co",
+    "dns_answer": "49.44.117.96,49.44.117.97,49.44.117.98,49.44.117.99,49.44.117.104,49.44.117.107,49.44.117.114,49.44.117.121,49.44.117.123"
+  },
+  {
+    "dns_query": "audio-ak-spotify-com.akamaized.net",
+    "dns_answer": "49.44.117.115,49.44.117.121,49.44.117.130,49.44.95.145,49.44.95.151,49.44.95.160,49.44.95.168,49.44.117.97,49.44.117.99"
+  },
+  {
+    "dns_query": "heads-ak-spotify-com.akamaized.net",
+    "dns_answer": "23.44.236.194,23.44.236.193"
+  },
+  {
+    "dns_query": "thisis-images.spotifycdn.com",
+    "dns_answer": "49.44.95.145,49.44.95.146,49.44.117.107,49.44.117.114,49.44.117.121,49.44.117.123,49.44.117.130,49.44.117.136,49.44.95.143"
+  },
+  {
+    "dns_query": "c39fd7367964f3f087a26d3efd1fc6c2.safeframe.googlesyndication.com",
+    "dns_answer": "142.250.207.193"
+  },
+  {
+    "dns_query": "pickasso.spotifycdn.com",
+    "dns_answer": "199.232.210.250,199.232.214.250"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.199.163"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "c.pki.goog",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "x1.c.lencr.org",
+    "dns_answer": "104.108.224.28"
+  },
+  {
+    "dns_query": "image-cdn-ak.spotifycdn.com",
+    "dns_answer": "49.44.95.151,49.44.95.152,49.44.95.159,49.44.95.160,49.44.95.168,49.44.117.96,49.44.117.98,49.44.117.99,49.44.95.146"
+  },
+  {
+    "dns_query": "i.scdn.co",
+    "dns_answer": "49.44.95.154,49.44.117.114,49.44.117.121,49.44.117.129,49.44.117.136,49.44.95.144,49.44.95.145,49.44.95.146,49.44.95.152"
+  },
+  {
+    "dns_query": "heads-ak-spotify-com.akamaized.net",
+    "dns_answer": "23.44.236.193,23.44.236.194"
+  },
+  {
+    "dns_query": "i.scdn.co",
+    "dns_answer": "49.44.95.162,49.44.95.167,49.44.117.97,49.44.117.98,49.44.117.99,49.44.117.104,49.44.95.154,49.44.95.159,49.44.95.160"
+  },
+  {
+    "dns_query": "audio-ak-spotify-com.akamaized.net",
+    "dns_answer": "49.44.117.129,49.44.117.130,49.44.117.136,49.44.117.107,49.44.117.115,49.44.117.120,49.44.117.122,49.44.117.123,49.44.117.128"
+  },
+  {
+    "dns_query": "v20.events.data.microsoft.com",
+    "dns_answer": "13.69.109.130"
+  },
+  {
+    "dns_query": "client.wns.windows.com",
+    "dns_answer": "20.198.119.143"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "teams.microsoft.com",
+    "dns_answer": "52.123.128.14,52.123.129.14"
+  },
+  {
+    "dns_query": "teams.microsoft.com",
+    "dns_answer": "52.123.129.14,52.123.128.14"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "52.168.117.171"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "52.182.143.208"
+  },
+  {
+    "dns_query": "in-api.asm.skype.com",
+    "dns_answer": "52.113.194.133"
+  },
+  {
+    "dns_query": "in-prod.asyncgw.teams.microsoft.com",
+    "dns_answer": "52.113.194.132"
+  },
+  {
+    "dns_query": "pub-ent-jpea-04-t.trouter.teams.microsoft.com",
+    "dns_answer": "52.123.168.128"
+  },
+  {
+    "dns_query": "appsuggestions.teams.microsoft.com",
+    "dns_answer": "52.113.194.132"
+  },
+  {
+    "dns_query": "presence.teams.microsoft.com",
+    "dns_answer": "52.123.170.52"
+  },
+  {
+    "dns_query": "config.teams.microsoft.com",
+    "dns_answer": "52.113.194.132"
+  },
+  {
+    "dns_query": "loki.delve.office.com",
+    "dns_answer": "52.111.244.0"
+  },
+  {
+    "dns_query": "res-1.cdn.office.net",
+    "dns_answer": "180.149.52.202,180.149.52.200"
+  },
+  {
+    "dns_query": "api-apac.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.171.14"
+  },
+  {
+    "dns_query": "inaz.relay.teams.microsoft.com",
+    "dns_answer": "52.113.10.114"
+  },
+  {
+    "dns_query": "india.cc.skype.com",
+    "dns_answer": "52.123.175.33"
+  },
+  {
+    "dns_query": "api-india.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.176.105"
+  },
+  {
+    "dns_query": "api-india.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.175.37"
+  },
+  {
+    "dns_query": "api.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.169.49"
+  },
+  {
+    "dns_query": "teams.microsoft.com",
+    "dns_answer": "52.123.128.14,52.123.129.14"
+  },
+  {
+    "dns_query": "inaz.relay.teams.microsoft.com",
+    "dns_answer": "52.113.158.72"
+  },
+  {
+    "dns_query": "india.cc.skype.com",
+    "dns_answer": "52.112.54.61"
+  },
+  {
+    "dns_query": "pub-ent-ince-02-t.trouter.teams.microsoft.com",
+    "dns_answer": "52.123.164.3"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "51.11.192.50"
+  },
+  {
+    "dns_query": "teams.microsoft.com",
+    "dns_answer": "52.123.129.14,52.123.128.14"
+  },
+  {
+    "dns_query": "pub-ent-ince-02-t.trouter.teams.microsoft.com",
+    "dns_answer": "52.123.164.3"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "104.208.16.89"
+  },
+  {
+    "dns_query": "substrate.office.com",
+    "dns_answer": "52.98.123.194,40.99.31.130,40.99.31.146,52.98.59.18"
+  },
+  {
+    "dns_query": "outlook.office.com",
+    "dns_answer": "52.98.58.50,52.98.123.194,52.98.123.242,52.98.58.34"
+  },
+  {
+    "dns_query": "ecs.office.com",
+    "dns_answer": "52.113.194.132"
+  },
+  {
+    "dns_query": "graph.microsoft.com",
+    "dns_answer": "20.190.175.24,20.190.175.88,20.190.175.152"
+  },
+  {
+    "dns_query": "statics.teams.cdn.office.net",
+    "dns_answer": "49.44.175.64,49.44.175.80,49.44.175.99"
+  },
+  {
+    "dns_query": "api-apac.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.170.150"
+  },
+  {
+    "dns_query": "inc.pptservicescast.officeapps.live.com",
+    "dns_answer": "52.111.252.10"
+  },
+  {
+    "dns_query": "india.cc.skype.com",
+    "dns_answer": "52.123.175.33"
+  },
+  {
+    "dns_query": "api-india.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.176.50"
+  },
+  {
+    "dns_query": "inaz.relay.teams.microsoft.com",
+    "dns_answer": "52.113.10.115"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "52.168.117.170"
+  },
+  {
+    "dns_query": "india.cc.skype.com",
+    "dns_answer": "52.123.175.33"
+  },
+  {
+    "dns_query": "api-india.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.176.47"
+  },
+  {
+    "dns_query": "api-apac.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.173.97"
+  },
+  {
+    "dns_query": "api-apac.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.168.240"
+  },
+  {
+    "dns_query": "india.cc.skype.com",
+    "dns_answer": "52.112.54.39"
+  },
+  {
+    "dns_query": "api-india.flightproxy.teams.microsoft.com",
+    "dns_answer": "52.123.164.190"
+  },
+  {
+    "dns_query": "apc-alt.loki.delve.office.com",
+    "dns_answer": "52.111.252.0"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "20.189.173.2"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "20.42.65.88"
+  },
+  {
+    "dns_query": "teams.events.data.microsoft.com",
+    "dns_answer": "20.189.173.3"
+  },
+  {
+    "dns_query": "edge.microsoft.com",
+    "dns_answer": "204.79.197.239,13.107.21.239"
+  }
+]

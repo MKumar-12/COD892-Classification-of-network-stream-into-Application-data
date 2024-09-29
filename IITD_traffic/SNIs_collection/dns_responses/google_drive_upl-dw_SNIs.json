@@ -1,0 +1,194 @@
+[
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "www.googleapis.com",
+    "dns_answer": "142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.207.234,172.217.27.170,172.217.166.10,172.217.167.234,216.58.196.106,216.58.200.202,142.250.77.202,142.250.77.234,142.250.182.170"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "clientservices.googleapis.com",
+    "dns_answer": "142.250.199.131"
+  },
+  {
+    "dns_query": "lh5.googleusercontent.com",
+    "dns_answer": "142.250.194.1"
+  },
+  {
+    "dns_query": "accounts.google.com",
+    "dns_answer": "142.251.10.84"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "memex-pa.googleapis.com",
+    "dns_answer": "216.58.200.202,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.207.202,142.250.207.234,172.217.167.202,216.58.200.170"
+  },
+  {
+    "dns_query": "lh3.googleusercontent.com",
+    "dns_answer": "142.250.194.1"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "apis.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "ogads-pa.clients6.google.com",
+    "dns_answer": "142.250.194.74"
+  },
+  {
+    "dns_query": "ajax.googleapis.com",
+    "dns_answer": "142.250.194.138"
+  },
+  {
+    "dns_query": "fonts.googleapis.com",
+    "dns_answer": "142.250.194.138"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.193.3"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.206.106,142.250.206.138,142.250.206.170,216.58.196.106,216.58.200.202"
+  },
+  {
+    "dns_query": "drive.google.com",
+    "dns_answer": "172.217.167.238"
+  },
+  {
+    "dns_query": "fonts.googleapis.com",
+    "dns_answer": "142.250.194.138"
+  },
+  {
+    "dns_query": "apis.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.193.3"
+  },
+  {
+    "dns_query": "lh3.googleusercontent.com",
+    "dns_answer": "142.250.194.1"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "clients6.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "drivefrontend-pa.clients6.google.com",
+    "dns_answer": "142.250.194.138"
+  },
+  {
+    "dns_query": "drive-thirdparty.googleusercontent.com",
+    "dns_answer": "142.250.194.1"
+  },
+  {
+    "dns_query": "people-pa.clients6.google.com",
+    "dns_answer": "142.250.194.106"
+  },
+  {
+    "dns_query": "content-autofill.googleapis.com",
+    "dns_answer": "172.217.167.202,216.58.196.106,142.250.77.234,142.250.182.170,142.250.194.10,142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.170,142.250.207.202,142.250.207.234,172.217.27.170"
+  },
+  {
+    "dns_query": "waa-pa.clients6.google.com",
+    "dns_answer": "142.250.193.10"
+  },
+  {
+    "dns_query": "ogads-pa.clients6.google.com",
+    "dns_answer": "142.250.193.234"
+  },
+  {
+    "dns_query": "pluto.smallpdf.com",
+    "dns_answer": "18.203.177.0,52.49.176.251,54.154.129.250"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "addons-pa.clients6.google.com",
+    "dns_answer": "142.250.194.234"
+  },
+  {
+    "dns_query": "signaler-pa.clients6.google.com",
+    "dns_answer": "142.250.192.234"
+  },
+  {
+    "dns_query": "contacts.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "ogs.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "ogs.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "clients2.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.99"
+  },
+  {
+    "dns_query": "e11.whatsapp.net",
+    "dns_answer": "15.197.210.208"
+  },
+  {
+    "dns_query": "e2.whatsapp.net",
+    "dns_answer": "3.33.252.61"
+  },
+  {
+    "dns_query": "e2.whatsapp.net",
+    "dns_answer": "3.33.221.48"
+  }
+]

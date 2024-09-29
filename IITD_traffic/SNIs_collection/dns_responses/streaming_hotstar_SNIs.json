@@ -1,0 +1,310 @@
+[
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "wpad.iitd.ac.in",
+    "dns_answer": "10.7.10.1"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "clientservices.googleapis.com",
+    "dns_answer": "142.250.195.3"
+  },
+  {
+    "dns_query": "accounts.google.com",
+    "dns_answer": "142.251.10.84"
+  },
+  {
+    "dns_query": "www.googleapis.com",
+    "dns_answer": "142.250.207.202,142.250.207.234,142.250.193.74,142.250.193.202,142.250.193.234,142.250.194.10,142.250.194.42,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.106,142.250.206.138,142.250.206.170"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "memex-pa.googleapis.com",
+    "dns_answer": "142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.206.138,142.250.206.170,142.250.207.202,142.250.207.234,172.217.27.170,172.217.166.10,172.217.167.234,216.58.196.106,142.250.194.10,142.250.194.42"
+  },
+  {
+    "dns_query": "ogads-pa.clients6.google.com",
+    "dns_answer": "216.58.196.106"
+  },
+  {
+    "dns_query": "fonts.gstatic.com",
+    "dns_answer": "142.250.193.3"
+  },
+  {
+    "dns_query": "play.google.com",
+    "dns_answer": "142.250.182.174"
+  },
+  {
+    "dns_query": "clients2.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "mtalk.google.com",
+    "dns_answer": "142.251.175.188"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "drive.google.com",
+    "dns_answer": "172.217.27.174"
+  },
+  {
+    "dns_query": "drive.google.com",
+    "dns_answer": "172.217.27.174"
+  },
+  {
+    "dns_query": "ogs.google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "www.gstatic.com",
+    "dns_answer": "142.250.207.227"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "216.58.196.106,216.58.200.202,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.193.10,142.250.193.42,142.250.193.74,142.250.193.202,142.250.193.234,142.250.206.106,172.217.167.202,172.217.167.234"
+  },
+  {
+    "dns_query": "www.hotstar.com",
+    "dns_answer": "23.63.110.42,23.63.110.58,23.63.110.66,23.63.110.74,23.63.110.90,23.63.110.104,23.63.110.24,23.63.110.40,23.63.110.41"
+  },
+  {
+    "dns_query": "img.hotstar.com",
+    "dns_answer": "104.71.61.65,104.71.61.187"
+  },
+  {
+    "dns_query": "img10.hotstar.com",
+    "dns_answer": "23.63.111.40,23.63.111.25"
+  },
+  {
+    "dns_query": "hsesn.apps.disneyplus.com",
+    "dns_answer": "49.44.117.107,49.44.117.130"
+  },
+  {
+    "dns_query": "www.googletagmanager.com",
+    "dns_answer": "142.250.206.136"
+  },
+  {
+    "dns_query": "o478470.ingest.sentry.io",
+    "dns_answer": "34.120.195.249"
+  },
+  {
+    "dns_query": "img1.hotstarext.com",
+    "dns_answer": "104.71.61.91,104.71.61.170"
+  },
+  {
+    "dns_query": "secure-media.hotstar.com",
+    "dns_answer": "104.71.61.154,104.71.61.64"
+  },
+  {
+    "dns_query": "bifrost-api.hotstar.com",
+    "dns_answer": "23.63.111.17,23.63.111.40,23.63.111.10"
+  },
+  {
+    "dns_query": "usersvc.hotstar.com",
+    "dns_answer": "23.32.176.157"
+  },
+  {
+    "dns_query": "q.quora.com",
+    "dns_answer": "162.159.152.17,162.159.153.247"
+  },
+  {
+    "dns_query": "bat.bing.com",
+    "dns_answer": "150.171.27.10,150.171.28.10"
+  },
+  {
+    "dns_query": "a.quora.com",
+    "dns_answer": "162.159.152.17,162.159.153.247"
+  },
+  {
+    "dns_query": "www.google-analytics.com",
+    "dns_answer": "216.239.32.178,216.239.34.178,216.239.36.178,216.239.38.178"
+  },
+  {
+    "dns_query": "ad.doubleclick.net",
+    "dns_answer": "142.250.207.230"
+  },
+  {
+    "dns_query": "td.doubleclick.net",
+    "dns_answer": "142.250.194.66"
+  },
+  {
+    "dns_query": "5977010.fls.doubleclick.net",
+    "dns_answer": "142.250.194.70"
+  },
+  {
+    "dns_query": "analytics.google.com",
+    "dns_answer": "216.239.38.181,216.239.32.181,216.239.34.181,216.239.36.181"
+  },
+  {
+    "dns_query": "stats.g.doubleclick.net",
+    "dns_answer": "142.251.175.157,142.251.175.154,142.251.175.155,142.251.175.156"
+  },
+  {
+    "dns_query": "www.google.co.in",
+    "dns_answer": "142.250.206.163"
+  },
+  {
+    "dns_query": "5977010.fls.doubleclick.net",
+    "dns_answer": "142.250.194.70"
+  },
+  {
+    "dns_query": "googleads.g.doubleclick.net",
+    "dns_answer": "142.250.182.162"
+  },
+  {
+    "dns_query": "ad.doubleclick.net",
+    "dns_answer": "142.250.207.230"
+  },
+  {
+    "dns_query": "adservice.google.com",
+    "dns_answer": "142.250.194.226"
+  },
+  {
+    "dns_query": "www.google.com",
+    "dns_answer": "142.250.193.228"
+  },
+  {
+    "dns_query": "firebaseremoteconfig.googleapis.com",
+    "dns_answer": "172.217.167.202,216.58.196.106,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.192.234,142.250.194.74,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.207.202,142.250.207.234"
+  },
+  {
+    "dns_query": "ssl.gstatic.com",
+    "dns_answer": "142.250.206.99"
+  },
+  {
+    "dns_query": "hesads.akamaized.net",
+    "dns_answer": "49.44.175.27,49.44.175.91"
+  },
+  {
+    "dns_query": "brand-img1.hotstarext.com",
+    "dns_answer": "104.71.61.136,104.71.61.170"
+  },
+  {
+    "dns_query": "hses3.akamaized.net",
+    "dns_answer": "49.44.117.123,49.44.117.130,49.44.117.136,49.44.95.146,49.44.117.97,49.44.117.98,49.44.117.99,49.44.117.104,49.44.117.121"
+  },
+  {
+    "dns_query": "hses3-vod-cf.cdn.hotstar.com",
+    "dns_answer": "18.66.41.50,18.66.41.70,18.66.41.88,18.66.41.119"
+  },
+  {
+    "dns_query": "apix.hotstar.com",
+    "dns_answer": "23.212.99.160,23.212.99.194,23.212.99.121,23.212.99.122,23.212.99.138,23.212.99.147,23.212.99.152,23.212.99.154,23.212.99.155"
+  },
+  {
+    "dns_query": "9929096.fls.doubleclick.net",
+    "dns_answer": "142.250.194.70"
+  },
+  {
+    "dns_query": "ad.doubleclick.net",
+    "dns_answer": "142.250.207.230"
+  },
+  {
+    "dns_query": "ad.doubleclick.net",
+    "dns_answer": "142.250.207.230"
+  },
+  {
+    "dns_query": "shifu.hotstarext.com",
+    "dns_answer": "23.63.111.34,23.63.111.27"
+  },
+  {
+    "dns_query": "hses7-vod-cf-ace.cdn.hotstar.com",
+    "dns_answer": "18.172.78.35,18.172.78.36,18.172.78.58,18.172.78.116"
+  },
+  {
+    "dns_query": "hses7.hotstar.com",
+    "dns_answer": "49.44.95.159,49.44.95.162,49.44.117.97,49.44.117.99,49.44.117.107,49.44.117.114,49.44.117.115,49.44.117.121,49.44.117.122"
+  },
+  {
+    "dns_query": "clients4.google.com",
+    "dns_answer": "142.250.193.46"
+  },
+  {
+    "dns_query": "update.googleapis.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "beacons.gcp.gvt2.com",
+    "dns_answer": "142.250.195.3"
+  },
+  {
+    "dns_query": "beacons4.gvt2.com",
+    "dns_answer": "216.239.32.116"
+  },
+  {
+    "dns_query": "beacons.gcp.gvt2.com",
+    "dns_answer": "172.253.124.94"
+  },
+  {
+    "dns_query": "substrate.office.com",
+    "dns_answer": "52.97.92.130,52.98.63.18,40.100.7.128,52.97.92.114"
+  },
+  {
+    "dns_query": "substrate.office.com",
+    "dns_answer": "40.99.31.162,52.98.57.114,52.98.123.194,40.99.31.146"
+  },
+  {
+    "dns_query": "e2c4.gcp.gvt2.com",
+    "dns_answer": "34.97.161.128"
+  },
+  {
+    "dns_query": "server.events.data.microsoft.com",
+    "dns_answer": "52.168.117.171"
+  },
+  {
+    "dns_query": "server.events.data.microsoft.com",
+    "dns_answer": "20.42.65.94"
+  },
+  {
+    "dns_query": "beacons.gvt2.com",
+    "dns_answer": "142.250.194.67"
+  },
+  {
+    "dns_query": "e2c23.gcp.gvt2.com",
+    "dns_answer": "35.184.229.211"
+  },
+  {
+    "dns_query": "beacons2.gvt2.com",
+    "dns_answer": "172.217.169.195"
+  },
+  {
+    "dns_query": "bifrost-api.hotstar.com",
+    "dns_answer": "23.63.111.40,23.63.111.16,23.63.111.17"
+  },
+  {
+    "dns_query": "google.com",
+    "dns_answer": "142.250.207.206"
+  },
+  {
+    "dns_query": "optimizationguide-pa.googleapis.com",
+    "dns_answer": "172.217.167.202,216.58.196.106,216.58.200.170,142.250.77.202,142.250.77.234,142.250.182.170,142.250.192.170,142.250.192.202,142.250.194.106,142.250.194.138,142.250.194.170,142.250.194.234,142.250.195.10,142.250.207.202,142.250.207.234,172.217.166.10"
+  }
+]

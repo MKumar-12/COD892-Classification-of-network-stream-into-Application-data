@@ -1,19 +1,19 @@
 #!/bin/bash
 
 # Input and output file paths
-input_file="./../Logs/dns_ip-resolved.txt"
-output_file="./../JSONs/dns_ip_dict.json"
+input_file="./../Logs/dns_queries_extract_new_5th_march.txt"
+output_file="./../JSONs/dns_ip_dict_5th_march.json"
 output_dir=$(dirname "$output_file")
 
 # Check if output directory exists, delete if it does
-if [ -d "$output_dir" ]; then
-    echo "Removing existing output directory: $output_dir"
-    rm -rf "$output_dir"
-fi
+# if [ -d "$output_dir" ]; then
+#     echo "Removing existing output directory: $output_dir"
+#     rm -rf "$output_dir"
+# fi
 
-# Create the output directory
-echo "Creating output directory: $output_dir"
-mkdir -p "$output_dir"
+# # Create the output directory
+# echo "Creating output directory: $output_dir"
+# mkdir -p "$output_dir"
 
 # Declare an associative array (dictionary)
 declare -A dns_ip_map
